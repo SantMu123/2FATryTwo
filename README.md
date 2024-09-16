@@ -198,3 +198,11 @@ passport.deserializeUser((user, done) => {
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia ISC. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Links
+
+https://console.cloud.google.com/apis/credentials/oauthclient/500883449574-kujhk6qnb2mujdvnouhrea180e5f54sa.apps.googleusercontent.com?project=firstlogproyect&supportedpurview=project
+
+https://discord.com/developers/applications/1285086928537915455/oauth2
+
+https://developers.facebook.com/apps/829910125970934/settings/basic/
