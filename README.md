@@ -16,7 +16,7 @@ Este proyecto demuestra cómo integrar estrategias de autenticación con Google,
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/tu_usuario/authgoogletry.git
+   git clone https://github.com/SantMu123/2FATryTwo.git
    cd authgoogletry
    ```
 
