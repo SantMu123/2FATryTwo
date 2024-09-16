@@ -1,5 +1,3 @@
-
-```markdown
 # AuthGoogleTry
 
 Una aplicación simple para probar autenticación usando Google, Discord y Facebook con Passport.js en una aplicación Express.
